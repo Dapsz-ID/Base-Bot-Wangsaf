@@ -1,0 +1,19 @@
+{
+  "name": "Dapsz-ID",
+  "version": "1.0.0",
+  "description": "Script By DapszOffc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dapszz Official",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "github:skyzopedia/Baileys",
+    "awesome-phonenumber": "^2.64.0",
+      "axios": "^0.24.0",
+    "form-data": "^4.0.4",
+    "path": "^0.12.7",
+    "pino": "^7.0.5"
+  }
+}
